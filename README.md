@@ -26,7 +26,7 @@ git push -u origin master
 - Simple and minimalistic fullstack template. You can add more packages as per your requirements.
 - Separate `tsconfig.json` for client and server.
 - Client and Server can share code (And types)
-- The client is bundled using [Vite](https://github.com/vitejs/vite)
+- The project is bundled using [Vite](https://github.com/vitejs/vite)
 - Both client and server use [TypeScript](https://github.com/Microsoft/TypeScript)
 
 ---
@@ -36,8 +36,7 @@ git push -u origin master
 - [React v18](https://facebook.github.io/react/)
 - [Express](https://github.com/expressjs/express)
 - [TypeScript](https://github.com/Microsoft/TypeScript)
-
-The project is bundled using [Vite](https://github.com/vitejs/vite)
+  
 
 ## Usage
 

@@ -2,9 +2,7 @@
 
 ## Quick Start
 
-If you're using GitHub, you can click on "Use this template" button to create a new repository based on this starter kit.
-
-Otherwise, clone this repository into your local project folder.
+You can clone this repository into your local project folder by downloading the zip file or copying the repository URL.
 
 ```bash
 git clone https://github.com/arunabhg/typescript-fullstack-starter <MyProjectName>
@@ -25,7 +23,7 @@ git push -u origin master
 
 ## Why use this template
 
-- Simple and minimalistic fullstack template. You can add more packages as per your requirement.
+- Simple and minimalistic fullstack template. You can add more packages as per your requirements.
 - Separate `tsconfig.json` for client and server.
 - Client and Server can share code (And types)
 - The client is bundled using [Vite](https://github.com/vitejs/vite)

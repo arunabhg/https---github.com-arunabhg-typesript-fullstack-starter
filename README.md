@@ -41,6 +41,6 @@ The project is bundled using [Vite](https://github.com/vitejs/vite)
 
 ## Usage
 
-- `npm run dev` - Client and server run in dev mode, opens http://localhost:5173/
+- `npm run dev` - Client and server run in dev mode, opens http://localhost:3000/
 - `npm build` - `dist` folder will include all the needed files
 - `npm start` - Runs `node dist/server/`
